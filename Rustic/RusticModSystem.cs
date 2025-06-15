@@ -13,7 +13,7 @@ namespace Rustic
         // Useful for registering block/entity classes on both sides
         public override void Start(ICoreAPI api)
         {
-            // Block classes
+            // Block classes - this may be what we need to use to fix gui display issue
             api.RegisterBlockClass("Rustic.BlockLargeRusticGenericContainer", typeof(BlockLargeRusticGenericContainer));
             api.RegisterBlockClass("Rustic.BlockSmallRusticGenericContainer", typeof(BlockSmallRusticGenericContainer));
         }

@@ -1,6 +1,6 @@
 {
     "code": "dresserdrawers",
-    "class": "Rustic.BlockLargeRusticGenericContainer",
+    "class": "BlockGenericTypedContainerTrunk",
     "entityclass": "GenericTypedContainer",
     "attributes": {
         "reinforcable": true,
@@ -121,7 +121,7 @@
     },
     "heldTpIdleAnimation": "holdunderarm",
     "shapeInventory": {
-        "base": "game:block/wood/trunk/normal",
+        "base": "rustic:block/wood/dresserdrawers",
         "rotateY": 270
     },
     "shapeByType": {
@@ -147,7 +147,7 @@
     },
     "blockmaterial": "Wood",
     "replaceable": 900,
-    "resistance": 2.5,
+    "resistance": 2.7,
     "lightAbsorption": 0,
     "sideAo": { "all": false },
     "sidesolid": {
@@ -185,7 +185,7 @@
         "translation": {
             "x": -0.3,
             "y": -0.5,
-            "z": -0.3
+            "z": -0.7
         },
         "rotation": {
             "x": 0,
@@ -198,7 +198,7 @@
         "origin": {
             "x": 0.5,
             "y": 0.5,
-            "z": 0.76
+            "z": 0.5
         },
         "scale": 0.85
     }

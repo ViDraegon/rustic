@@ -1,4 +1,19 @@
 {
     "game:tabname-rustic": "Rustic",
+
+    "rustic:*-dresserdrawers-birch-east": "Birch Dresser",
+    "rustic:*-dresserdrawers-oak-east": "Oak Dresser",
+    "rustic:*-dresserdrawers-maple-east": "Maple Dresser",
+    "rustic:*-dresserdrawers-pine-east": "Pine Dresser",
+    "rustic:*-dresserdrawers-acacia-east": "Acacia Dresser",
+    "rustic:*-dresserdrawers-kapok-east": "Kapok Dresser",
+    "rustic:*-dresserdrawers-aged-east": "Aged Dresser",
+    "rustic:*-dresserdrawers-baldcypress-east": "Bald Cypress Dresser",
+    "rustic:*-dresserdrawers-larch-east": "Larch Dresser",
+    "rustic:*-dresserdrawers-redwood-east": "Redwood Dresser",
+    "rustic:*-dresserdrawers-ebony-east": "Ebony Dresser",
+    "rustic:*-dresserdrawers-walnut-east": "Walnut Dresser",
+    "rustic:*-dresserdrawers-purpleheart-east": "Purpleheart Dresser",
+
     "rustic:dressercontents": "Dresser Contents"
 }

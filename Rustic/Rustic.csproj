@@ -55,8 +55,4 @@
   </Content>
 </ItemGroup>
 
-<ItemGroup>
-  <Folder Include="Code\BlockEntity\" />
-</ItemGroup>
-
 </Project>
