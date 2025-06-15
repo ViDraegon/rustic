@@ -1,0 +1,11 @@
+{
+    "type": "code",
+    "modid": "rustic",
+    "name": "Rustic",
+    "authors": [ "Vi" ],
+    "description": "Comfortable furniture and storage options!",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}
