@@ -121,7 +121,7 @@
     },
     "heldTpIdleAnimation": "holdunderarm",
     "shapeInventory": {
-        "base": "block/wood/trunk/normal",
+        "base": "game:block/wood/trunk/normal",
         "rotateY": 270
     },
     "shapeByType": {

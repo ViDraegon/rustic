@@ -1,0 +1,15 @@
+{
+	ingredientPattern: "WWW,_N_,WWW",
+	ingredients: {
+		"W": { 
+            type: "item", 
+            code: "game:plank-*", 
+            name: "wood", 
+            allowedVariants: ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"], 
+            quantity: 2 
+        },
+		"N": { type: "item", code: "game:metalnailsandstrips-*", quantity: 1 }
+	},
+	width: 3,
+    output: { type: "block", code: "rustic:dresserdrawers-{wood}-east", quantity: 1}
+}
