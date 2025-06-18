@@ -11,9 +11,9 @@
             "loadFromProperties": "block/wood"
         }
     ],
-    "shape": { "base": "rustic:block/wood/dresserdrawers" },
+    "shape": { "base": "rustic:block/wood/nightstand" },
     "shapeInventory": {
-        "base": "rustic:block/wood/dresserdrawers",
+        "base": "rustic:block/wood/nightstand",
         "rotateY": 270
     },
     "textures": {
