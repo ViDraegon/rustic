@@ -39,7 +39,7 @@
         "typedCloseSound": {
             "normal": "sounds/block/largechestclose"
         },
-        "variantByGroup": "side",
+        "variantByGroup": "wood",
         "variantByGroupInventory": null
     },
     "behaviors": [

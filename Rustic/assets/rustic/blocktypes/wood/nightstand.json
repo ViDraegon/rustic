@@ -1,0 +1,47 @@
+{
+    "code": "nightstand",
+    "behaviors": [
+        { "name": "Lockable" },
+        { "name": "Container" }
+    ],
+    "variantgroups": [
+        {
+            "code": "wood",
+            "states": [ "aged" ],
+            "loadFromProperties": "block/wood"
+        }
+    ],
+    "shape": { "base": "rustic:block/wood/dresserdrawers" },
+    "shapeInventory": {
+        "base": "rustic:block/wood/dresserdrawers",
+        "rotateY": 270
+    },
+    "textures": {
+        "wood": { "base": "game:block/wood/debarked/{wood}" }
+    },
+    "blockmaterial": "Wood",
+    "replaceable": 900,
+    "materialDensity": 600,
+    "resistance": 2.7,
+    "combustibleProps": {
+        "burnTemperature": 600,
+        "burnDuration": 35
+    },
+    "lightAbsorption": 0,
+    "sideAo": { "all": false },
+    "sidesolid": {
+        "all": false,
+        "up": true
+    },
+    "sideopaque": {
+        "all": false
+    },
+    "sounds": {
+        "place": "game:block/planks",
+        "hit": "game:block/planks",
+        "break": "game:block/planks",
+        "walk": "game:walk/wood"
+    },
+    "creativeinventory": { "general": [ "*" ] },
+    "heldTpIdleAnimation": "holdunderarm"
+}
